@@ -1,0 +1,8 @@
+cleantext
+click
+colorama
+joblib
+nltk
+numpy
+regex
+tqdm
